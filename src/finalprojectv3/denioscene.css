@@ -1,0 +1,55 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+.background {
+ -fx-background-color: turquoise;
+  }
+ .normal-label {
+ -fx-font-size: 10pt;
+ -fx-font-family: "Segoe UI Semibold";
+ -fx-text-fill: blue;
+ -fx-opacity: 0.6;
+    }
+    
+    .normal-labelDark {
+ -fx-font-size: 10pt;
+ -fx-font-family: "Segoe UI Semibold";
+ -fx-text-fill: turquoise;
+ -fx-opacity: 0.6;
+    }
+    
+    
+    .label-bright {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: turquoise;
+    -fx-opacity: 1;
+    }
+    .normal-textField {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: blueviolet;
+    -fx-opacity: 1;
+    }
+    .randomName {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: green;
+    -fx-opacity: 1;
+    }
+    .normal-button {
+    -fx-font-size: 10pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: blueviolet;
+    -fx-opacity: 1;
+    }
+    .textField-bright {
+    -fx-font-size: 20pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: red;
+    -fx-opacity: 1;
+    }
